@@ -23,16 +23,13 @@ Requirements:
 •	Java 8 or higher
 Steps:
 1.	Clone the Repository:
-bash
-Copy code
+
 git clone https://github.com/yourusername/Virtual-Wellness-Planner.git
 2.	Navigate to the Project Folder:
-bash
-Copy code
+
 cd Virtual-Wellness-Planner
 3.	Compile the Code:
-bash
-Copy code
+
 javac VirtualWellnessPlanner.java
 4.	Run the Program:
 bash
@@ -47,8 +44,7 @@ Features:
 •	Plan Reset: Reset your daily wellness plan and start again.
 ________________________________________
 Example Usage
-yaml
-Copy code
+
 Welcome to the Virtual Wellness Planner!
 Enter your name: John Doe
 Enter your age: 25
